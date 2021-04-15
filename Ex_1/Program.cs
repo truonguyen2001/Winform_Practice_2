@@ -17,6 +17,7 @@ namespace Ex_1
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Ex_1());
+            //Hello
         }
     }
 }
